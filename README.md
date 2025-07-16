@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ Brian
 - 👀 I’m interested in learn informatique
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning full stack 
 - 💞️ I’m looking to collaborate on like improuv and sharing expériences
 - 😄 Pronouns: I'm friendly 
 - ⚡ Fun fact: I like Breakdance 
